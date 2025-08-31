@@ -34,16 +34,16 @@
             <!-- Stats -->
             <div class="grid grid-cols-3 gap-4 text-center">
               <div class="bg-white/10 backdrop-blur-sm rounded-lg p-4 border border-white/20">
-                <div class="text-2xl font-bold text-white">3+</div>
-                <div class="text-gray-300 text-sm">Yillik Tajriba</div>
+                <div class="text-2xl font-bold text-white">6</div>
+                <div class="text-gray-300 text-sm">Oylik Tajriba</div>
               </div>
               <div class="bg-white/10 backdrop-blur-sm rounded-lg p-4 border border-white/20">
-                <div class="text-2xl font-bold text-white">50+</div>
-                <div class="text-gray-300 text-sm">Loyihalar</div>
+                <div class="text-2xl font-bold text-white">1</div>
+                <div class="text-gray-300 text-sm">Loyiha</div>
               </div>
               <div class="bg-white/10 backdrop-blur-sm rounded-lg p-4 border border-white/20">
                 <div class="text-2xl font-bold text-white">100%</div>
-                <div class="text-gray-300 text-sm">Mijoz Mamnuniyati</div>
+                <div class="text-gray-300 text-sm">Motivatsiya</div>
               </div>
             </div>
           </div>
@@ -55,9 +55,9 @@
             <div class="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20 hover:bg-white/15 transition-all duration-300">
               <h3 class="text-xl font-semibold text-white mb-3">Mening Hikoyam</h3>
               <p class="text-gray-300 leading-relaxed">
-                Men Frontend va Backend dasturlashda ishlashni yaxshi ko'raman. 
+                6 oylik tajriba bilan dasturlash sohasida o'z yo'limni boshlaganman. 
                 Vue.js, JavaScript, TailwindCSS, HTML va CSS texnologiyalari bilan 
-                zamonaviy web saytlar yaratishga ixtisoslashganman.
+                1 ta muvaffaqiyatli loyiha yaratdim va yangi loyihalar uchun tayyorman.
               </p>
             </div>
 
@@ -76,6 +76,7 @@
                 <span class="px-3 py-1 bg-amber-500/30 text-amber-200 rounded-full text-sm">🚀 Frontend</span>
                 <span class="px-3 py-1 bg-yellow-500/30 text-yellow-200 rounded-full text-sm">💻 Backend</span>
                 <span class="px-3 py-1 bg-orange-500/30 text-orange-200 rounded-full text-sm">🌐 Web Development</span>
+                <span class="px-3 py-1 bg-blue-500/30 text-blue-200 rounded-full text-sm">🤖 Bot Development</span>
                 <span class="px-3 py-1 bg-amber-600/30 text-amber-200 rounded-full text-sm">📚 O'qish</span>
                 <span class="px-3 py-1 bg-yellow-600/30 text-yellow-200 rounded-full text-sm">🎯 Problem Solving</span>
               </div>
