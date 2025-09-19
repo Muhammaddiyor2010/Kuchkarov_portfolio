@@ -165,7 +165,7 @@ export default {
   data() {
     return {
       selectedCategory: 'Hammasi',
-      categories: ['Hammasi', 'Web Apps', 'Mobile Apps', 'E-commerce', 'Landing Pages'],
+      categories: ['Hammasi', 'Web Apps', 'Mobile Apps', 'E-commerce', 'Landing Pages', 'AI & Bots'],
       visibleProjects: 6,
       projects: [
         {
@@ -184,6 +184,44 @@ export default {
           },
           links: {
             live: 'https://ielts-hub-self.vercel.app/',
+            github: '#'
+          }
+        },
+        {
+          id: 2,
+          title: 'Maslahatchi AI',
+          description: 'Sun\'iy intellekt asosidagi maslahatchi web platformasi. Foydalanuvchilar turli sohalarda professional maslahat olishlari mumkin.',
+          category: 'AI & Bots',
+          technologies: ['JavaScript', 'Vue.js', 'TailwindCSS', 'AI/ML'],
+          year: '2024',
+          status: 'Faol',
+          icon: '🤖',
+          stats: {
+            duration: '10 kun',
+            team: '1 kishi',
+            rating: '4.9★'
+          },
+          links: {
+            live: 'https://maslahatchi-ai.vercel.app/',
+            github: '#'
+          }
+        },
+        {
+          id: 3,
+          title: 'Popays Kokand Bot',
+          description: 'Qo\'qon shahri uchun maxsus yaratilgan Telegram bot. Mahalliy xizmatlar, yangiliklar va foydali ma\'lumotlar bilan ta\'minlaydi.',
+          category: 'AI & Bots',
+          technologies: ['Python', 'Aiogram', 'Telegram Bot API', 'Database'],
+          year: '2024',
+          status: 'Faol',
+          icon: '📱',
+          stats: {
+            duration: '1 oy',
+            team: '1 kishi',
+            rating: '4.7★'
+          },
+          links: {
+            live: 'https://t.me/Popays_kokand_bot',
             github: '#'
           }
         }
