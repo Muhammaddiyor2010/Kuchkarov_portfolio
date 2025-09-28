@@ -192,17 +192,17 @@ export default {
           title: 'Maslahatchi AI',
           description: 'Sun\'iy intellekt asosidagi maslahatchi web platformasi. Foydalanuvchilar turli sohalarda professional maslahat olishlari mumkin.',
           category: 'AI & Bots',
-          technologies: ['JavaScript', 'Vue.js', 'TailwindCSS', 'AI/ML'],
+          technologies: ['JavaScript', 'Vue.js', 'TailwindCSS', 'AI', 'Tailwind Css'],
           year: '2025',
           status: 'Faol',
           icon: '🤖',
           stats: {
             duration: '3oy + kun',
             team: '1 kishi',
-            rating: '4.9★'
+            rating: '5.0★'
           },
           links: {
-            live: 'https://maslahatchi-ai.vercel.app/',
+            live: 'https://maslahatchi-ai-uz.vercel.app/',
             github: '#'
           }
         },
