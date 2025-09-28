@@ -174,8 +174,8 @@ export default {
           description: 'IELTS imtihoniga tayyorgarlik uchun to\'liq web platformasi. Reading, Writing, Listening va Speaking bo\'limlari, mock testlar va real-time natijalar.',
           category: 'Web Apps',
           technologies: ['Vue.js', 'JavaScript', 'TailwindCSS', 'Python'],
-          year: '2024',
-          status: 'Davom etmoqda',
+          year: '2025',
+          status: 'Toxtagan lekin tugamagan',
           icon: '📚',
           stats: {
             duration: '4+ oy',
@@ -193,7 +193,7 @@ export default {
           description: 'Sun\'iy intellekt asosidagi maslahatchi web platformasi. Foydalanuvchilar turli sohalarda professional maslahat olishlari mumkin.',
           category: 'AI & Bots',
           technologies: ['JavaScript', 'Vue.js', 'TailwindCSS', 'AI/ML'],
-          year: '2024',
+          year: '2025',
           status: 'Faol',
           icon: '🤖',
           stats: {
@@ -212,7 +212,7 @@ export default {
           description: 'Qo\'qon shahri uchun maxsus yaratilgan Telegram bot. Mahalliy xizmatlar, yangiliklar va foydali ma\'lumotlar bilan ta\'minlaydi.',
           category: 'AI & Bots',
           technologies: ['Python', 'Aiogram', 'Telegram Bot API', 'Database'],
-          year: '2024',
+          year: '2025',
           status: 'Faol',
           icon: '📱',
           stats: {
@@ -225,6 +225,25 @@ export default {
             github: '#'
           }
         }
+         {
+          id: 4,
+          title: 'Maslahatchi ai',
+          description: 'Maslahat beruvchi AI bo"lib hohlagan mavzuda maslahat bera oladi',
+          category: 'Web Apps',
+          technologies: ['Vue.js', 'JavaScript', 'TailwindCSS', 'Python'],
+          year: '2025',
+          status: 'Faol',
+          icon: '💻',
+          stats: {
+            duration: '3+ oy',
+            team: '1 kishi',
+            rating: '5.0★'
+          },
+          links: {
+            live: 'https://maslahatchi-ai-uz.vercel.app/',
+            github: '#'
+          }
+        },
       ]
     }
   },
