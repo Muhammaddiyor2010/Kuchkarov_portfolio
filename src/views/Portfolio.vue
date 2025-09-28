@@ -197,7 +197,7 @@ export default {
           status: 'Faol',
           icon: '🤖',
           stats: {
-            duration: '10 kun',
+            duration: '3oy + kun',
             team: '1 kishi',
             rating: '4.9★'
           },
@@ -225,25 +225,6 @@ export default {
             github: '#'
           }
         }
-         {
-          id: 4,
-          title: 'Maslahatchi ai',
-          description: 'Maslahat beruvchi AI bo"lib hohlagan mavzuda maslahat bera oladi',
-          category: 'Web Apps',
-          technologies: ['Vue.js', 'JavaScript', 'TailwindCSS', 'Python'],
-          year: '2025',
-          status: 'Faol',
-          icon: '💻',
-          stats: {
-            duration: '3+ oy',
-            team: '1 kishi',
-            rating: '5.0★'
-          },
-          links: {
-            live: 'https://maslahatchi-ai-uz.vercel.app/',
-            github: '#'
-          }
-        },
       ]
     }
   },
